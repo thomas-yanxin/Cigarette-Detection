@@ -1,5 +1,6 @@
-<font face="黑体" size=4>不抽烟，也没有烟，所以只能以这种形式代替了</font>
 
+[AIStudio地址](https://aistudio.baidu.com/aistudio/projectdetail/1943814)
+<font face="黑体" size=4>不抽烟，也没有烟，所以只能以这种形式代替了</font>
 
 
 ![](https://ai-studio-static-online.cdn.bcebos.com/56d5a3ec5da6480ba188da3294d47d0549c117988a8a4aa39b071ea0ec731ab8)
