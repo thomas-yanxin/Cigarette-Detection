@@ -263,15 +263,6 @@ for i in jpg_path:
 !paddlex --split_dataset --format VOC --dataset_dir /home/aistudio/dataset/ --val_value 0.2 --test_value 0.1
 ```
 
-    /opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/setuptools/depends.py:2: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
-      import imp
-    Dataset Split Done.[0m
-    [0mTrain samples: 3396[0m
-    [0mEval samples: 970[0m
-    [0mTest samples: 485[0m
-    [0mSplit files saved in /home/aistudio/dataset/[0m
-    [0m[0m
-
 
 ```python
 %cd /home/aistudio/
