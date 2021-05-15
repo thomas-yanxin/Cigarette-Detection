@@ -189,15 +189,6 @@ for i in jpg_path:
 !paddlex --split_dataset --format VOC --dataset_dir /home/aistudio/dataset/ --val_value 0.2 --test_value 0.1
 ```
 
-    /opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/setuptools/depends.py:2: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
-      import imp
-    Dataset Split Done.[0m
-    [0mTrain samples: 3403[0m
-    [0mEval samples: 972[0m
-    [0mTest samples: 486[0m
-    [0mSplit files saved in /home/aistudio/dataset/[0m
-    [0m[0m
-
 <font face="宋体" size=4>
 
 &emsp;&emsp;当然，从一般情况来说，这一步完成之后就可以进行模型训练了。但其实在实际过程中，若进行模型训练，在训练过程中会报错。具体报错，大家感兴趣的可以实地体验一下（嘿嘿嘿）。这里就需要用到我们在开头所提到的check.py文件。执行以下命令，会输出图片读取有误的图片路径。我们用rm -rf命令将其与其对应的.xml文件删除。
