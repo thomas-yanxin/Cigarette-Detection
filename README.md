@@ -396,5 +396,4 @@ cap.release()
 
 [CSDN主页，欢迎互关哟](https://blog.csdn.net/Mefishes?spm=1000.2115.3001.5343)  
 
-请点击[此处](https://ai.baidu.com/docs#/AIStudio_Project_Notebook/a38e5576)查看本环境基本用法.  <br>
-Please click [here ](https://ai.baidu.com/docs#/AIStudio_Project_Notebook/a38e5576) for more detailed instructions. 
+
